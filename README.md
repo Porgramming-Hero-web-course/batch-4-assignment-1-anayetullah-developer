@@ -17,7 +17,7 @@ id = 42;        (valid)
 
 id = "ABC123";  (also valid)
 
-// id = true;   (invalid, only string or number allowed)
+id = true;   (invalid, only string or number allowed)
 
 ```
 
