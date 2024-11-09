@@ -1,0 +1,17 @@
+{
+  "name": "batch-4-assignment-1-anayetullah-developer",
+  "version": "1.0.0",
+  "description": "In TypeScript, **union** and **intersection types** are powerful tools for describing how types can combine and interact.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn --transpile-only problem8.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.6.3"
+  }
+}
